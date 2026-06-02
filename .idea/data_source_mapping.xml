@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/functions.sql" value="05051daa-62a3-4bc0-8e6e-0a5e43ac4704" />
+    <file url="file://$PROJECT_DIR$/groupby.sql" value="05051daa-62a3-4bc0-8e6e-0a5e43ac4704" />
+  </component>
+</project>
